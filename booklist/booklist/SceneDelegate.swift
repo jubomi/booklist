@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  booklist
 //
-//  Created by 주보미 on 2022/01/24.
+//  Created by 김선우 on 2022/01/24.
 //
 
 import UIKit
